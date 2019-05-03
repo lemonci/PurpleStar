@@ -9,3 +9,6 @@ ______15 Apr 2019______
 3.  Done Change readSQL. Split positive and negative relationship -chlly. (currently have vanilla (all relaitionship), Exponential version (e^(weight)), and non-negative version (with all negative relationships removed)
 4. Extract non-networking feature -lemonci.
 5. Official class rank/other feature? - lemonci.
+
+Fast checking 
+http://162.105.134.121:22222/basicinformation/[personalID]/assoc   
