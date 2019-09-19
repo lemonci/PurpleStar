@@ -4,8 +4,11 @@ a project for PRL Pattern Recognition and Artificial Intelligence Techniques for
 Weight CSVs: relationship code in column 1, weight in column 2. DO NOT USE OTHER INFO IN NETWORK COMPUTING.
 
 Folders:
+
 data: Biographic features and relationships fetched from CBDB.
+
 networkcentrality: calculation of centrality based on relationships.
+
 prediction: prediction of official ranks using biographic feature and network centrality with ORCA, Mord and Random forest.
 
 ______15 Apr 2019______
